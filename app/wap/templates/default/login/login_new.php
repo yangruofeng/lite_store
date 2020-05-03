@@ -62,7 +62,7 @@
                     alert(_o.MSG);
                 }else{
                     alert('登录成功',2,function(){
-                        window.location.href='<?php echo getWapUrl('wap_index','index'); ?>';
+                        window.location.href='<?php echo getWapUrl('order','sales_order'); ?>';
                     });
                 }
 

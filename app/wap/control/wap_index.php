@@ -16,6 +16,7 @@ class wap_indexControl extends wap_baseControl
 
     public function indexOp()
     {
-        Tpl::showPage('index');
+       $url = getWapUrl('order','sales_order');
+        goURL2($url);
     }
 }
