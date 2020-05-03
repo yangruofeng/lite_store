@@ -17,6 +17,6 @@ class wap_indexControl extends wap_baseControl
     public function indexOp()
     {
        $url = getWapUrl('order','sales_order');
-        goURL2($url);
+        redirect($url);
     }
 }
