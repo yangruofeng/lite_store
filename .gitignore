@@ -1,6 +1,6 @@
 log
 schema
 session
-cache
+/app/data/cache
 /config.switch.override.tmp
 .idea
