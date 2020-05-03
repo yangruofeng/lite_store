@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<REQUEST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Enquiry.xsd">
+    <SERVICE>ENQUIRYV4</SERVICE>
+    <ACTION>A_SC</ACTION>
+    <HEADER>
+        <MEMBER_ID>246</MEMBER_ID>
+        <USER_ID>SRTUATXML</USER_ID>
+        <RUN_NO>5</RUN_NO>
+        <TOT_ITEMS>1</TOT_ITEMS>
+    </HEADER>
+    <MESSAGE>
+        <ENQUIRY>
+            <ENQUIRY_TYPE>NA</ENQUIRY_TYPE>
+            <LANGUAGE/>
+            <PRODUCT_TYPE>AGL</PRODUCT_TYPE>
+            <NO_OF_APPLICANTS>1</NO_OF_APPLICANTS>
+            <ACCOUNT_TYPE>S</ACCOUNT_TYPE>
+            <ENQUIRY_REFERENCE>Enquiry-1543997074-90</ENQUIRY_REFERENCE>
+            <AMOUNT>11000</AMOUNT>
+            <CURRENCY>USD</CURRENCY>
+            <CONSUMER>
+                <CAPL>P</CAPL>
+                <CID>
+                    <CID1>N</CID1>
+                    <CID2>010365983(01)</CID2>
+                    <CID3>
+                        <CID3D>08</CID3D>
+                        <CID3M>04</CID3M>
+                        <CID3Y>2025</CID3Y>
+                    </CID3>
+                </CID>
+                <CDOB>
+                    <CDBD>01</CDBD>
+                    <CDBM>01</CDBM>
+                    <CDBY>1973</CDBY>
+                </CDOB>
+                <CPLB>
+                    <CPLBC>KHM</CPLBC>
+                    <CPLBP>01</CPLBP>
+                    <CPLBD>0102</CPLBD>
+                    <CPLBCM>010201</CPLBCM>
+                </CPLB>
+                <CGND>M</CGND>
+                <CMAR>M</CMAR>
+                <CNAT>KHM</CNAT>
+                <CNAM>
+                    <CNMFA lang="kh">ប៊ុន</CNMFA>
+                    <CNM1A lang="kh">ធារ៉ា</CNM1A>
+                    <CNM2A lang="kh"/>
+                    <CNM3A lang="kh"/>
+                    <CNMFE>BUN</CNMFE>
+                    <CNM1E>THEARA</CNM1E>
+                    <CNM2E/>
+                    <CNM3E/>
+                </CNAM>
+                <CEML/>
+                <CADR>
+                    <CADT>RESID</CADT>
+                    <CADPR>01</CADPR>
+                    <CADDS>0102</CADDS>
+                    <CADCM>010201</CADCM>
+                    <CADVL>01020100</CADVL>
+                    <CAD1A lang="kh"/>
+                    <CAD2A lang="kh"/>
+                    <CAD1E/>
+                    <CAD2E/>
+                    <CAD7/>
+                    <CAD8E/>
+                    <CAD8A lang="kh"/>
+                    <CAD9>KHM</CAD9>
+                    <CADH/>
+                    <CADS/>
+                </CADR>
+                <CCNT>
+                    <CCN1>M</CCN1>
+                    <CCN2>855</CCN2>
+                    <CCN3/>
+                    <CCN4>12755506</CCN4>
+                    <CCN5/>
+                </CCNT>
+                <CEMP>
+                    <ETYP>C</ETYP>
+                    <ESLF>Y</ESLF>
+                    <EOCA lang="kh"/>
+                    <EOCE>seller</EOCE>
+                    <ELEN>8</ELEN>
+                    <ETMS>500</ETMS>
+                    <ECURR>USD</ECURR>
+                    <ENMA lang="kh"/>
+                    <ENME>none</ENME>
+                    <EADR>
+                        <EADT>WORK</EADT>
+                        <EADP>01</EADP>
+                        <EADD>0102</EADD>
+                        <EADC>010201</EADC>
+                        <EADV>01020100</EADV>
+                        <EAD1A lang="kh"/>
+                        <EAD2A lang="kh"/>
+                        <EAD1E/>
+                        <EAD2E/>
+                        <EAD7/>
+                        <EAD8E/>
+                        <EAD8A lang="kh"/>
+                        <EAD9>KHM</EAD9>
+                        <EADH/>
+                        <EADS/>
+                    </EADR>
+                </CEMP>
+            </CONSUMER>
+            <SCORECARD>MFI01</SCORECARD>
+        </ENQUIRY>
+    </MESSAGE>
+</REQUEST>

@@ -1,0 +1,19 @@
+<RESPONSE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="EnquiryRspV4.xsd">
+    <SERVICE>ENQUIRY</SERVICE>
+    <ACTION>A</ACTION>
+    <STATUS>PARSER</STATUS>
+    <HEADER>
+        <MEMBER_ID>205</MEMBER_ID>
+        <USER_ID>ZELJKOJ</USER_ID>
+        <RUN_NO>1</RUN_NO>
+        <TOT_ITEMS>1</TOT_ITEMS>
+        <ERR_ITEMS>1</ERR_ITEMS>
+    </HEADER>
+    <MESSAGE>
+        <PARSER>
+            <RSP_MSG>Failed to Parse XML document. Line:1, Column:836. Not enough elements to match content
+                model : '((CID1,CID2),CIDEXP)'</RSP_MSG>
+            <REQ_DATA/>
+        </PARSER>
+    </MESSAGE>
+</RESPONSE>

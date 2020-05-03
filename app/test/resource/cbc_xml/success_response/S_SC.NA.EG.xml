@@ -1,0 +1,1077 @@
+<RESPONSE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="EnquiryRspV4.xsd">
+    <SERVICE>ENQUIRYV4</SERVICE>
+    <ACTION>A_SC</ACTION>
+    <STATUS>OK</STATUS>
+    <HEADER>
+        <MEMBER_ID>2</MEMBER_ID>
+        <USER_ID>CAMRD2INT</USER_ID>
+        <RUN_NO>001</RUN_NO>
+        <TOT_ITEMS>1</TOT_ITEMS>
+        <ERR_ITEMS></ERR_ITEMS>
+    </HEADER>
+    <MESSAGE>
+        <ITEM>
+            <ENQUIRY_REFERENCE>JMTRENQUIRYV4MHS1</ENQUIRY_REFERENCE>
+            <RSP_REPORT>
+                <ENQUIRY_TYPE>NA</ENQUIRY_TYPE>
+                <REPORT_DATE>15/01/2015</REPORT_DATE>
+                <ENQUIRY_NO>963431</ENQUIRY_NO>
+                <PRODUCT_TYPE>SCC</PRODUCT_TYPE>
+                <NO_OF_APPLICANTS>1</NO_OF_APPLICANTS>
+                <ACCOUNT_TYPE>S</ACCOUNT_TYPE>
+                <ENQUIRY_REFERENCE>JMTRENQUIRYV4MHS1</ENQUIRY_REFERENCE>
+                <AMOUNT>330000.00</AMOUNT>
+                <CURRENCY>KHR</CURRENCY>
+                <CONSUMER>
+                    <CAPL>P</CAPL>
+                    <CID>
+                        <CID1>N</CID1>
+                        <CID2 lang="kh">123387367</CID2>
+                        <CID3>10/10/2020</CID3>
+                    </CID>
+                    <PROVIDED>
+                        <PCNAM>
+                            <PCNMFE>Vin</PCNMFE>
+                            <PCNM1E>Hak</PCNM1E>
+                        </PCNAM>
+                        <PCDOB>01/07/1988</PCDOB>
+                        <PCPLB>
+                            <PCPLBC>KHM</PCPLBC>
+                            <PCPLBP>12</PCPLBP>
+                            <PCPLBD>1202</PCPLBD>
+                            <PCPLBCM>120201</PCPLBCM>
+                        </PCPLB>
+                        <PCGND>M</PCGND>
+                        <PCMAR>M</PCMAR>
+                        <PCNAT>KHM</PCNAT>
+                        <PCEML/>
+                    </PROVIDED>
+                    <AVAILABLE>
+                        <ACID>
+                            <ACID1>P</ACID1>
+                            <ACID2 lang="kh">123387367</ACID2>
+                            <ACID3>30/04/2018</ACID3>
+                        </ACID>
+                        <ACNAM>
+                            <ACNMFA lang="kh">ដថដថលៈដពោផពរេ្</ACNMFA>
+                            <ACNM1A lang="kh">កលដោិដថេ្</ACNM1A>
+                            <ACNM2A lang="kh">ស្ដស្ពដព រ</ACNM2A>
+                            <ACNM3A lang="kh">និពងលេ្</ACNM3A>
+                            <ACNM7A lang="kh">ពេង ចាន់ធូ</ACNM7A>
+                            <ACNMFE>DFG</ACNMFE>
+                            <ACNM1E>DFSG</ACNM1E>
+                            <ACNM2E>DFGSDFG</ACNM2E>
+                        </ACNAM>
+                        <ACDOB>01/07/1988</ACDOB>
+                        <ACPLB>
+                            <ACPLBC>KHM</ACPLBC>
+                            <ACPLBP>12</ACPLBP>
+                            <ACPLBD>1202</ACPLBD>
+                            <ACPLBCM>120201</ACPLBCM>
+                        </ACPLB>
+                        <ACGND>M</ACGND>
+                        <ACMAR>M</ACMAR>
+                        <ACNAT>KHM</ACNAT>
+                        <ACEML>first.second@emails.com</ACEML>
+                    </AVAILABLE>
+                    <ADDITIONAL_IDS>
+                        <ADDITIONAL_ID>
+                            <AID_CID1>P</AID_CID1>
+                            <AID_CID2 lang="kh">124587367</AID_CID2>
+                            <AID_CID3>30/04/2018</AID_CID3>
+                            <AID_LOADDT>23/10/2014</AID_LOADDT>
+                        </ADDITIONAL_ID>
+                        <ADDITIONAL_ID>
+                            <AID_CID1>P</AID_CID1>
+                            <AID_CID2 lang="kh">12337367សាាយ</AID_CID2>
+                            <AID_CID3>10/10/2020</AID_CID3>
+                            <AID_LOADDT>11/12/2013</AID_LOADDT>
+                        </ADDITIONAL_ID>
+                    </ADDITIONAL_IDS>
+                    <ADDITIONAL_NAMES>
+                        <ADDITIONAL_NAME>
+                            <ANM_CNMFE>DFG</ANM_CNMFE>
+                            <ANM_CNM1E>DFSG</ANM_CNM1E>
+                            <ANM_CNM2E>DFGSDFG</ANM_CNM2E>
+                            <ANM_CNM3E/>
+                            <ANM_CNM7E/>
+                            <ANM_LOAD_DT>14/01/2015</ANM_LOAD_DT>
+                        </ADDITIONAL_NAME>
+                        <ADDITIONAL_NAME>
+                            <ANM_CNMFA lang="kh">ដថដថលៈដពោផពរេ្</ANM_CNMFA>
+                            <ANM_CNM1A lang="kh">កលដោិដថេ្</ANM_CNM1A>
+                            <ANM_CNM2A lang="kh"/>
+                            <ANM_CNM3A lang="kh"/>
+                            <ANM_CNM7A lang="kh"/>
+                            <ANM_CNMFE>MEI</ANM_CNMFE>
+                            <ANM_CNM1E>HAK</ANM_CNM1E>
+                            <ANM_CNM2E/>
+                            <ANM_CNM3E/>
+                            <ANM_CNM7E/>
+                            <ANM_LOAD_DT>01/10/2014</ANM_LOAD_DT>
+                        </ADDITIONAL_NAME>
+                        <ADDITIONAL_NAME>
+                            <ANM_CNMFA lang="kh">កញ៉ៃម</ANM_CNMFA>
+                            <ANM_CNM1A lang="kh">ប ុនណ្តរី</ANM_CNM1A>
+                            <ANM_CNM2A lang="kh"/>
+                            <ANM_CNM3A lang="kh"/>
+                            <ANM_CNM7A lang="kh"/>
+                            <ANM_CNMFE>MEI - ALIAS</ANM_CNMFE>
+                            <ANM_CNM1E>HAK - ALIAS</ANM_CNM1E>
+                            <ANM_CNM2E/>
+                            <ANM_CNM3E/>
+                            <ANM_CNM7E/>
+                            <ANM_LOAD_DT>05/11/2013</ANM_LOAD_DT>
+                        </ADDITIONAL_NAME>
+                        <ADDITIONAL_NAME>
+                            <ANM_CNMFE>MEI</ANM_CNMFE>
+                            <ANM_CNM1E>HAK-NOKHMER</ANM_CNM1E>
+                            <ANM_CNM2E/>
+                            <ANM_CNM3E/>
+                            <ANM_CNM7E/>
+                            <ANM_LOAD_DT>05/11/2013</ANM_LOAD_DT>
+                        </ADDITIONAL_NAME>
+                        <ADDITIONAL_NAME>
+                            <ANM_CNMFA lang="kh"/>
+                            <ANM_CNM1A lang="kh"/>
+                            <ANM_CNM2A lang="kh"/>
+                            <ANM_CNM3A lang="kh"/>
+                            <ANM_CNM7A lang="kh">ពេង ចាន់ធូ</ANM_CNM7A>
+                            <ANM_CNMFE>MEI</ANM_CNMFE>
+                            <ANM_CNM1E>TESTING</ANM_CNM1E>
+                            <ANM_CNM2E/>
+                            <ANM_CNM3E/>
+                            <ANM_CNM7E/>
+                            <ANM_LOAD_DT>15/05/2013</ANM_LOAD_DT>
+                        </ADDITIONAL_NAME>
+                    </ADDITIONAL_NAMES>
+                    <PREV_ENQUIRIES>
+                        <PREV_ENQUIRY>
+                            <PE_DATE>14/01/2015</PE_DATE>
+                            <PE_ENQR>Booyoung Khmer Bank</PE_ENQR>
+                            <PE_TYPE>NA</PE_TYPE>
+                            <PE_ACCT>S</PE_ACCT>
+                            <PE_MEMB_REF>WEBLITE1.08U004</PE_MEMB_REF>
+                            <PE_PRD>HVL</PE_PRD>
+                            <PE_AMOUNT>367.00</PE_AMOUNT>
+                            <PE_CURR>USD</PE_CURR>
+                            <PE_APPL>P</PE_APPL>
+                            <PE_NAME>
+                                <PE_NMFE>Mei</PE_NMFE>
+                                <PE_NM1E>Hak</PE_NM1E>
+                            </PE_NAME>
+                        </PREV_ENQUIRY>
+                        <PREV_ENQUIRY>
+                            <PE_DATE>14/01/2015</PE_DATE>
+                            <PE_ENQR>Green Central Microfinance</PE_ENQR>
+                            <PE_TYPE>NA</PE_TYPE>
+                            <PE_ACCT>S</PE_ACCT>
+                            <PE_MEMB_REF>WEBSTD1.08U005
+                            </PE_MEMB_REF>
+                            <PE_PRD>SYL</PE_PRD>
+                            <PE_AMOUNT>156788.00</PE_AMOUNT>
+                            <PE_CURR>THB</PE_CURR>
+                            <PE_APPL>P</PE_APPL>
+                            <PE_NAME>
+                                <PE_NMFE>Mei</PE_NMFE>
+                                <PE_NM1E>Hak</PE_NM1E>
+                            </PE_NAME>
+                        </PREV_ENQUIRY>
+                        <PREV_ENQUIRY>
+                            <PE_DATE>14/01/2015</PE_DATE>
+                            <PE_ENQR>ACLEDA BANK PLC</PE_ENQR>
+                            <PE_TYPE>RV</PE_TYPE>
+                            <PE_ACCT>S</PE_ACCT>
+                            <PE_MEMB_REF>EMPLRV0087DIDI1</PE_MEMB_REF>
+                            <PE_PRD>GRL</PE_PRD>
+                            <PE_AMOUNT>660.00</PE_AMOUNT>
+                            <PE_CURR>THB</PE_CURR>
+                            <PE_APPL>P</PE_APPL>
+                            <PE_NAME>
+                                <PE_NMFE>dfg</PE_NMFE>
+                                <PE_NM1E>dfsg</PE_NM1E>
+                                <PE_NM2E>dfgsdfg</PE_NM2E>
+                            </PE_NAME>
+                        </PREV_ENQUIRY>
+                        <PREV_ENQUIRY>
+                            <PE_DATE>14/01/2015</PE_DATE>
+                            <PE_ENQR>Cambodia Asia Bank Ltd</PE_ENQR>
+                            <PE_TYPE>NA</PE_TYPE>
+                            <PE_ACCT>S</PE_ACCT>
+                            <PE_MEMB_REF>WEBSTD1.08U004</PE_MEMB_REF>
+                            <PE_PRD>PHL</PE_PRD>
+                            <PE_AMOUNT>501.00</PE_AMOUNT>
+                            <PE_CURR>USD</PE_CURR>
+                            <PE_APPL>P</PE_APPL>
+                            <PE_NAME>
+                                <PE_NMFE>Mei</PE_NMFE>
+                                <PE_NM1E>Hak</PE_NM1E>
+                            </PE_NAME>
+                        </PREV_ENQUIRY>
+                        <PREV_ENQUIRY>
+                            <PE_DATE>14/01/2015</PE_DATE>
+                            <PE_ENQR>Bank of India Phnom Penh Branch</PE_ENQR>
+                            <PE_TYPE>NA</PE_TYPE>
+                            <PE_ACCT>S</PE_ACCT>
+                            <PE_MEMB_REF>WEBLITE1.08U003</PE_MEMB_REF>
+                            <PE_PRD>UCC</PE_PRD>
+                            <PE_AMOUNT>499.00</PE_AMOUNT>
+                            <PE_CURR>USD</PE_CURR>
+                            <PE_APPL>P</PE_APPL>
+                            <PE_NAME>
+                                <PE_NMFE>Mei</PE_NMFE>
+                                <PE_NM1E>Hak</PE_NM1E>
+                            </PE_NAME>
+                        </PREV_ENQUIRY>
+                        <PREV_ENQUIRY>
+                            <PE_DATE>13/01/2015</PE_DATE>
+                            <PE_ENQR>Intean Poalroath Rongroeurng</PE_ENQR>
+                            <PE_TYPE>NA</PE_TYPE>
+                            <PE_ACCT>S</PE_ACCT>
+                            <PE_MEMB_REF>WEBLITE1.08U</PE_MEMB_REF>
+                            <PE_PRD>ASL</PE_PRD>
+                            <PE_AMOUNT>400000.00</PE_AMOUNT>
+                            <PE_CURR>VND</PE_CURR>
+                            <PE_APPL>P</PE_APPL>
+                            <PE_NAME>
+                                <PE_NMFE>Mei</PE_NMFE>
+                                <PE_NM1E>Hak</PE_NM1E>
+                            </PE_NAME>
+                        </PREV_ENQUIRY>
+                        <PREV_ENQUIRY>
+                            <PE_DATE>13/01/2015</PE_DATE>
+                            <PE_ENQR>CAMMA Microfinance</PE_ENQR>
+                            <PE_TYPE>NA</PE_TYPE>
+                            <PE_ACCT>S</PE_ACCT>
+                            <PE_MEMB_REF>WEBSTD1.08U</PE_MEMB_REF>
+                            <PE_PRD>SYL</PE_PRD>
+                            <PE_AMOUNT>933000.00</PE_AMOUNT>
+                            <PE_CURR>LAK</PE_CURR>
+                            <PE_APPL>P</PE_APPL>
+                            <PE_NAME>
+                                <PE_NMFE>Mei</PE_NMFE>
+                                <PE_NM1E>Hak</PE_NM1E>
+                            </PE_NAME>
+                        </PREV_ENQUIRY>
+                        <PREV_ENQUIRY>
+                            <PE_DATE>23/12/2014</PE_DATE>
+                            <PE_ENQR>Cambodia Development Specialized Bank</PE_ENQR>
+                            <PE_TYPE>NA</PE_TYPE>
+                            <PE_ACCT>S</PE_ACCT>
+                            <PE_MEMB_REF>WEBENQUIRYV4LITE776</PE_MEMB_REF>
+                            <PE_PRD>EML</PE_PRD>
+                            <PE_AMOUNT>8000.00</PE_AMOUNT>
+                            <PE_CURR>LAK</PE_CURR>
+                            <PE_APPL>P</PE_APPL>
+                            <PE_NAME>
+                                <PE_NMFE>Mei</PE_NMFE>
+                                <PE_NM1E>Hak</PE_NM1E>
+                            </PE_NAME>
+                        </PREV_ENQUIRY>
+                        <PREV_ENQUIRY>
+                            <PE_DATE>10/12/2014</PE_DATE>
+                            <PE_ENQR>ACLEDA BANK PLC</PE_ENQR>
+                            <PE_TYPE>RV</PE_TYPE>
+                            <PE_ACCT>S</PE_ACCT>
+                            <PE_MEMB_REF>EMPLRV0087</PE_MEMB_REF>
+                            <PE_PRD>GRL</PE_PRD>
+                            <PE_AMOUNT>669453400.00</PE_AMOUNT>
+                            <PE_CURR>THB</PE_CURR>
+                            <PE_APPL>P</PE_APPL>
+                            <PE_NAME>
+                                <PE_NMFE>dfg</PE_NMFE>
+                                <PE_NM1E>dfsg</PE_NM1E>
+                                <PE_NM2E>dfgsdfg</PE_NM2E>
+                            </PE_NAME>
+                        </PREV_ENQUIRY>
+                        <PREV_ENQUIRY>
+                            <PE_DATE>10/12/2014</PE_DATE>
+                            <PE_ENQR>SAMIC Microfinance</PE_ENQR>
+                            <PE_TYPE>NA</PE_TYPE>
+                            <PE_ACCT>S</PE_ACCT>
+                            <PE_MEMB_REF>WRITEOFF001</PE_MEMB_REF>
+                            <PE_PRD>AGL</PE_PRD>
+                            <PE_AMOUNT>4442000.00</PE_AMOUNT>
+                            <PE_CURR>THB</PE_CURR>
+                            <PE_APPL>P</PE_APPL>
+                            <PE_NAME>
+                                <PE_NMFE>Mei</PE_NMFE>
+                                <PE_NM1E>Hak</PE_NM1E>
+                            </PE_NAME>
+                        </PREV_ENQUIRY>
+                        <PREV_ENQUIRY>
+                            <PE_DATE>20/11/2014</PE_DATE>
+                            <PE_ENQR>202 ANGKOR MIKROHERANHVATHO(KAMPUCHEA)</PE_ENQR>
+                            <PE_TYPE>NA</PE_TYPE>
+                            <PE_ACCT>S</PE_ACCT>
+                            <PE_MEMB_REF>JM_00002020165192</PE_MEMB_REF>
+                            <PE_PRD>CCC</PE_PRD>
+                            <PE_AMOUNT>13350000.00</PE_AMOUNT>
+                            <PE_CURR>KHR</PE_CURR>
+                            <PE_APPL>P</PE_APPL>
+                            <PE_NAME>
+                                <PE_NMFE>Mei</PE_NMFE>
+                                <PE_NM1E>Hak</PE_NM1E>
+                            </PE_NAME>
+                        </PREV_ENQUIRY>
+                        <PREV_ENQUIRY>
+                            <PE_DATE>20/11/2014</PE_DATE>
+                            <PE_ENQR>202 ANGKOR MIKROHERANHVATHO(KAMPUCHEA)</PE_ENQR>
+                            <PE_TYPE>NA</PE_TYPE>
+                            <PE_ACCT>S</PE_ACCT>
+                            <PE_MEMB_REF>JM_00001059825097</PE_MEMB_REF>
+                            <PE_PRD>CCC</PE_PRD>
+                            <PE_AMOUNT>13350000.00</PE_AMOUNT>
+                            <PE_CURR>KHR</PE_CURR>
+                            <PE_APPL>P</PE_APPL>
+                            <PE_NAME>
+                                <PE_NMFE>Mei</PE_NMFE>
+                                <PE_NM1E>Hak</PE_NM1E>
+                            </PE_NAME>
+                        </PREV_ENQUIRY>
+                    </PREV_ENQUIRIES>
+
+                    <ACC_DETAILS>
+                        <ACC_DETAIL>
+                            <ACC_CRDTR>FARMER FINANCE</ACC_CRDTR>
+                            <ACC_PRD>CDL</ACC_PRD>
+                            <ACC_GRP_REF>CATGR_01</ACC_GRP_REF>
+                            <ACC_ACC_NO>CAT-1245783</ACC_ACC_NO>
+                            <ACC_RST_LOAN>N</ACC_RST_LOAN>
+                            <ACC_CURR>USD</ACC_CURR>
+                            <ACC_LIMIT>55005454.00</ACC_LIMIT>
+                            <ACC_ISSU_DT>04/08/2010</ACC_ISSU_DT>
+                            <ACC_PROD_EXP_DT/>
+                            <ACC_STATUS>N</ACC_STATUS>
+                            <ACC_CLSD_DT/>
+                            <ACC_TNR>12</ACC_TNR>
+                            <ACC_FRQ>M</ACC_FRQ>
+                            <ACC_INSTL>1825.04</ACC_INSTL>
+                            <ACC_SEC>LT</ACC_SEC>
+                            <ACC_CUB>484848.00</ACC_CUB>
+                            <ACC_ODB>50120.00</ACC_ODB>
+                            <ACC_LAST_AMT_PD>0.00</ACC_LAST_AMT_PD>
+                            <ACC_LAST_PAY_DT>08/08/2009</ACC_LAST_PAY_DT>
+                            <ACC_AS_OF_DT>08/12/2011</ACC_AS_OF_DT>
+                            <ACC_NXT_DU_DT>06/09/2011</ACC_NXT_DU_DT>
+                            <ACC_SUMMRY>MMMMMMMMMMMMMMMMMMMMMMMM</ACC_SUMMRY>
+                            <ACC_ADV_MSG/>
+                            <ACC_CAPL>P</ACC_CAPL>
+                        </ACC_DETAIL>
+                        <ACC_DETAIL>
+                            <ACC_CRDTR>301 BEELINE TELECOMMUNICATIONS</ACC_CRDTR>
+                            <ACC_PRD>SYL</ACC_PRD>
+                            <ACC_GRP_REF>X36</ACC_GRP_REF>
+                            <ACC_ACC_NO>X3292553462</ACC_ACC_NO>
+                            <ACC_RST_LOAN>N</ACC_RST_LOAN>
+                            <ACC_CURR>KHR</ACC_CURR>
+                            <ACC_LIMIT>44400000.00</ACC_LIMIT>
+                            <ACC_ISSU_DT>03/06/2011</ACC_ISSU_DT>
+                            <ACC_PROD_EXP_DT/>
+                            <ACC_STATUS>R</ACC_STATUS>
+                            <ACC_CLSD_DT>20/10/2014</ACC_CLSD_DT>
+                            <ACC_TNR>12</ACC_TNR>
+                            <ACC_FRQ>M</ACC_FRQ>
+                            <ACC_INSTL>30000.00</ACC_INSTL>
+                            <ACC_SEC>OT</ACC_SEC>
+                            <ACC_CUB>0.00</ACC_CUB>
+                            <ACC_ODB>0.00</ACC_ODB>
+                            <ACC_LAST_AMT_PD>0.00</ACC_LAST_AMT_PD>
+                            <ACC_LAST_PAY_DT>20/10/2014</ACC_LAST_PAY_DT>
+                            <ACC_AS_OF_DT>20/10/2014</ACC_AS_OF_DT>
+                            <ACC_NXT_DU_DT>20/11/2014</ACC_NXT_DU_DT>
+                            <ACC_SUMMRY>R21011MMMMMMMMMMMMMMMMMM</ACC_SUMMRY>
+                            <ACC_ADV_MSG>ACT5</ACC_ADV_MSG>
+                            <ACC_CAPL>P</ACC_CAPL>
+                        </ACC_DETAIL>
+                        <ACC_DETAIL>
+                            <ACC_CRDTR>301 BEELINE TELECOMMUNICATIONS</ACC_CRDTR>
+                            <ACC_PRD>CRC</ACC_PRD>
+                            <ACC_GRP_REF/>
+                            <ACC_ACC_NO>4598738</ACC_ACC_NO>
+                            <ACC_RST_LOAN>N</ACC_RST_LOAN>
+                            <ACC_CURR>THB</ACC_CURR>
+                            <ACC_LIMIT>1000000.00</ACC_LIMIT>
+                            <ACC_ISSU_DT>01/01/2000</ACC_ISSU_DT>
+                            <ACC_PROD_EXP_DT/>
+                            <ACC_STATUS>W</ACC_STATUS>
+                            <ACC_CLSD_DT/>
+                            <ACC_TNR>12</ACC_TNR>
+                            <ACC_FRQ>M</ACC_FRQ>
+                            <ACC_INSTL>300.00</ACC_INSTL>
+                            <ACC_SEC>OT</ACC_SEC>
+                            <ACC_CUB>227763221500.00</ACC_CUB>
+                            <ACC_ODB>300.00</ACC_ODB>
+                            <ACC_LAST_AMT_PD>100.00</ACC_LAST_AMT_PD>
+                            <ACC_LAST_PAY_DT>23/11/2011</ACC_LAST_PAY_DT>
+                            <ACC_AS_OF_DT>23/11/2011</ACC_AS_OF_DT>
+                            <ACC_NXT_DU_DT/>
+                            <ACC_SUMMRY>W76543210MMMMMMMMMMMMMMM</ACC_SUMMRY>
+                            <ACC_ADV_MSG/>
+                            <ACC_CAPL>P</ACC_CAPL>
+                        </ACC_DETAIL>
+                        <ACC_DETAIL>
+                            <ACC_CRDTR>First Commercial Bank PPBranch</ACC_CRDTR>
+                            <ACC_PRD>CRC</ACC_PRD>
+                            <ACC_GRP_REF/>
+                            <ACC_ACC_NO>4598743</ACC_ACC_NO>
+                            <ACC_RST_LOAN>N</ACC_RST_LOAN>
+                            <ACC_CURR>USD</ACC_CURR>
+                            <ACC_LIMIT>40700001.00</ACC_LIMIT>
+                            <ACC_ISSU_DT>23/09/2011</ACC_ISSU_DT>
+                            <ACC_PROD_EXP_DT/>
+                            <ACC_STATUS>W</ACC_STATUS>
+                            <ACC_CLSD_DT/>
+                            <ACC_TNR>12</ACC_TNR>
+                            <ACC_FRQ>M</ACC_FRQ>
+                            <ACC_INSTL>300.00</ACC_INSTL>
+                            <ACC_SEC>NO</ACC_SEC>
+                            <ACC_CUB>67791125656.98</ACC_CUB>
+                            <ACC_ODB>6565.98</ACC_ODB>
+                            <ACC_LAST_AMT_PD>65.32</ACC_LAST_AMT_PD>
+                            <ACC_LAST_PAY_DT>15/01/2012</ACC_LAST_PAY_DT>
+                            <ACC_AS_OF_DT>07/05/2012</ACC_AS_OF_DT>
+                            <ACC_NXT_DU_DT/>
+                            <ACC_SUMMRY>W876543210</ACC_SUMMRY>
+                            <ACC_ADV_MSG/>
+                            <ACC_CAPL>P</ACC_CAPL>
+                        </ACC_DETAIL>
+                        <ACC_DETAIL>
+                            <ACC_CRDTR>ACLEDA BANK PLC</ACC_CRDTR>
+                            <ACC_PRD>GRL</ACC_PRD>
+                            <ACC_GRP_REF/>
+                            <ACC_ACC_NO>4598745</ACC_ACC_NO>
+                            <ACC_RST_LOAN>N</ACC_RST_LOAN>
+                            <ACC_CURR>USD</ACC_CURR>
+                            <ACC_LIMIT>1000000.00</ACC_LIMIT>
+                            <ACC_ISSU_DT>23/09/2011</ACC_ISSU_DT>
+                            <ACC_PROD_EXP_DT/>
+                            <ACC_STATUS>S</ACC_STATUS>
+                            <ACC_CLSD_DT/>
+                            <ACC_TNR>12</ACC_TNR>
+                            <ACC_FRQ>M</ACC_FRQ>
+                            <ACC_INSTL>300.00</ACC_INSTL>
+                            <ACC_SEC>OT</ACC_SEC>
+                            <ACC_CUB>46636.00</ACC_CUB>
+                            <ACC_ODB>35453.00</ACC_ODB>
+                            <ACC_LAST_AMT_PD>4334.00</ACC_LAST_AMT_PD>
+                            <ACC_LAST_PAY_DT>03/10/2012</ACC_LAST_PAY_DT>
+                            <ACC_AS_OF_DT>04/10/2012</ACC_AS_OF_DT>
+                            <ACC_NXT_DU_DT>04/11/2012</ACC_NXT_DU_DT>
+                            <ACC_SUMMRY>MMMMMMMMMMMMMMMMMMMMMMMM</ACC_SUMMRY>
+                            <ACC_ADV_MSG/>
+                            <ACC_CAPL>S</ACC_CAPL>
+                        </ACC_DETAIL>
+                    </ACC_DETAILS>
+
+                    <GUARANTEED_ACCOUNTS>
+                        <GRT_ACC_DETAIL>
+                            <GRT_CRDTR>ACLEDA BANK PLC</GRT_CRDTR>
+                            <GRT_PRD>TFL</GRT_PRD>
+                            <GRT_GRP_REF/>
+                            <GRT_ACC_NO>0001LD1204500006</GRT_ACC_NO>
+                            <GRT_RST_LOAN>N</GRT_RST_LOAN>
+                            <GRT_CURR>USD</GRT_CURR>
+                            <GRT_LIMIT>15000.00</GRT_LIMIT>
+                            <GRT_ISSU_DT>14/02/2012</GRT_ISSU_DT>
+                            <GRT_PROD_EXP_DT>17/05/2012</GRT_PROD_EXP_DT>
+                            <GRT_STATUS>C</GRT_STATUS>
+                            <GRT_CLSD_DT>14/05/2012</GRT_CLSD_DT>
+                            <GRT_TNR>3</GRT_TNR>
+                            <GRT_FRQ>M</GRT_FRQ>
+                            <GRT_INSTL>15174.00</GRT_INSTL>
+                            <GRT_SEC>TO</GRT_SEC>
+                            <GRT_CUB>0.00</GRT_CUB>
+                            <GRT_ODB>0.00</GRT_ODB>
+                            <GRT_LAST_AMT_PD>1232.00</GRT_LAST_AMT_PD>
+                            <GRT_LAST_PAY_DT>14/05/2012</GRT_LAST_PAY_DT>
+                            <GRT_AS_OF_DT>06/06/2012</GRT_AS_OF_DT>
+                            <GRT_NXT_DU_DT/>
+                            <GRT_SUMMRY>C8M0</GRT_SUMMRY>
+                            <GRT_ADV_MSG/>
+                        </GRT_ACC_DETAIL>
+                        <GRT_ACC_DETAIL>
+                            <GRT_CRDTR>301 BEELINE TELECOMMUNICATIONS</GRT_CRDTR>
+                            <GRT_PRD>CDL</GRT_PRD>
+                            <GRT_GRP_REF/>
+                            <GRT_ACC_NO>REF50LONGWITHALONGREFERENCEGREATERTHAN30MEIHAK0001</GRT_ACC_NO>
+                            <GRT_RST_LOAN>N</GRT_RST_LOAN>
+                            <GRT_CURR>LAK</GRT_CURR>
+                            <GRT_LIMIT>26589500.00</GRT_LIMIT>
+                            <GRT_ISSU_DT>04/10/2010</GRT_ISSU_DT>
+                            <GRT_PROD_EXP_DT/>
+                            <GRT_STATUS>W</GRT_STATUS>
+                            <GRT_CLSD_DT/>
+                            <GRT_TNR>12</GRT_TNR>
+                            <GRT_FRQ>M</GRT_FRQ>
+                            <GRT_INSTL>2350.00</GRT_INSTL>
+                            <GRT_SEC>LT</GRT_SEC>
+                            <GRT_CUB>45.00</GRT_CUB>
+                            <GRT_ODB>45.00</GRT_ODB>
+                            <GRT_LAST_AMT_PD>4343.00</GRT_LAST_AMT_PD>
+                            <GRT_LAST_PAY_DT>04/04/2012</GRT_LAST_PAY_DT>
+                            <GRT_AS_OF_DT>04/04/2012</GRT_AS_OF_DT>
+                            <GRT_NXT_DU_DT>04/04/2012</GRT_NXT_DU_DT>
+                            <GRT_SUMMRY>W89876551323MMMM</GRT_SUMMRY>
+                            <GRT_ADV_MSG/>
+                        </GRT_ACC_DETAIL>
+                        <GRT_ACC_DETAIL>
+                            <GRT_CRDTR>VISIONFUND CAMBODIA</GRT_CRDTR>
+                            <GRT_PRD>CON</GRT_PRD>
+                            <GRT_GRP_REF>S003DB</GRT_GRP_REF>
+                            <GRT_ACC_NO>3192881</GRT_ACC_NO>
+                            <GRT_RST_LOAN>N</GRT_RST_LOAN>
+                            <GRT_CURR>KHR</GRT_CURR>
+                            <GRT_LIMIT>1100000.00</GRT_LIMIT>
+                            <GRT_ISSU_DT>08/04/2011</GRT_ISSU_DT>
+                            <GRT_PROD_EXP_DT>19/03/2012</GRT_PROD_EXP_DT>
+                            <GRT_STATUS>C</GRT_STATUS>
+                            <GRT_CLSD_DT>19/03/2012</GRT_CLSD_DT>
+                            <GRT_TNR>0</GRT_TNR>
+                            <GRT_FRQ>M</GRT_FRQ>
+                            <GRT_INSTL>0.00</GRT_INSTL>
+                            <GRT_SEC>TO</GRT_SEC>
+                            <GRT_CUB>0.00</GRT_CUB>
+                            <GRT_ODB>0.00</GRT_ODB>
+                            <GRT_LAST_AMT_PD>1131400.00</GRT_LAST_AMT_PD>
+                            <GRT_LAST_PAY_DT>19/03/2012</GRT_LAST_PAY_DT>
+                            <GRT_AS_OF_DT>01/03/2012</GRT_AS_OF_DT>
+                            <GRT_NXT_DU_DT/>
+                            <GRT_SUMMRY>CMMMMMMMMMM</GRT_SUMMRY>
+                            <GRT_ADV_MSG/>
+                        </GRT_ACC_DETAIL>
+                        <GRT_ACC_DETAIL>
+                            <GRT_CRDTR>ACLEDA BANK PLC</GRT_CRDTR>
+                            <GRT_PRD>CON</GRT_PRD>
+                            <GRT_GRP_REF>R11</GRT_GRP_REF>
+                            <GRT_ACC_NO>3292553437</GRT_ACC_NO>
+                            <GRT_RST_LOAN>N</GRT_RST_LOAN>
+                            <GRT_CURR>KHR</GRT_CURR>
+                            <GRT_LIMIT>1000000.00</GRT_LIMIT>
+                            <GRT_ISSU_DT>23/09/2011</GRT_ISSU_DT>
+                            <GRT_PROD_EXP_DT/>
+                            <GRT_STATUS>N</GRT_STATUS>
+                            <GRT_CLSD_DT/>
+                            <GRT_TNR>12</GRT_TNR>
+                            <GRT_FRQ>M</GRT_FRQ>
+                            <GRT_INSTL>30000.00</GRT_INSTL>
+                            <GRT_SEC>OT</GRT_SEC>
+                            <GRT_CUB>1000000.00</GRT_CUB>
+                            <GRT_ODB>0.00</GRT_ODB>
+                            <GRT_LAST_AMT_PD>0.00</GRT_LAST_AMT_PD>
+                            <GRT_LAST_PAY_DT>23/11/2011</GRT_LAST_PAY_DT>
+                            <GRT_AS_OF_DT>23/11/2011</GRT_AS_OF_DT>
+                            <GRT_NXT_DU_DT>23/12/2011</GRT_NXT_DU_DT>
+                            <GRT_SUMMRY>MMMMMMMMMMMMMMMMMMMMMMMM</GRT_SUMMRY>
+                            <GRT_ADV_MSG/>
+                        </GRT_ACC_DETAIL>
+                    </GUARANTEED_ACCOUNTS>
+
+                    <WRITEOFFS>
+                        <WRITEOFF>
+                            <WO_PRD>CRC</WO_PRD>
+                            <WO_CAPL>P</WO_CAPL>
+                            <WO_ACC_NO>4598738</WO_ACC_NO>
+                            <WO_CRDTR>301 BEELINE TELECOMMUNICATIONS</WO_CRDTR>
+                            <WO_LOAD_DT>22/06/2012</WO_LOAD_DT>
+                            <WO_CURR>THB</WO_CURR>
+                            <WO_ORIG_AMT>2500.00</WO_ORIG_AMT>
+                            <WO_CUB>150.00</WO_CUB>
+                            <WO_STAT>NS</WO_STAT>
+                            <WO_STATUS_DATE>23/11/2011
+                            </WO_STATUS_DATE>
+                        </WRITEOFF>
+                        <WRITEOFF>
+                            <WO_PRD>CRC</WO_PRD>
+                            <WO_CAPL>P</WO_CAPL>
+                            <WO_ACC_NO>4598743</WO_ACC_NO>
+                            <WO_CRDTR>First Commercial Bank PP Branch</WO_CRDTR>
+                            <WO_LOAD_DT>18/05/2012</WO_LOAD_DT>
+                            <WO_CURR>USD</WO_CURR>
+                            <WO_ORIG_AMT>65656.98</WO_ORIG_AMT>
+                            <WO_CUB>4125.98</WO_CUB>
+                            <WO_STAT>LA</WO_STAT>
+                            <WO_STATUS_DATE>07/05/2012</WO_STATUS_DATE>
+                        </WRITEOFF>
+                        <WRITEOFF>
+                            <WO_PRD>CRC</WO_PRD>
+                            <WO_CAPL>P</WO_CAPL>
+                            <WO_ACC_NO>4598747</WO_ACC_NO>
+                            <WO_CRDTR>METFONE COMMUNICATIONS</WO_CRDTR>
+                            <WO_LOAD_DT>18/05/2012</WO_LOAD_DT>
+                            <WO_CURR>USD</WO_CURR>
+                            <WO_ORIG_AMT>2500.00</WO_ORIG_AMT>
+                            <WO_CUB>2500.00</WO_CUB>
+                            <WO_STAT>OS</WO_STAT>
+                            <WO_STATUS_DATE>23/11/2011</WO_STATUS_DATE>
+                        </WRITEOFF>
+                        <WRITEOFF>
+                            <WO_PRD>HIL</WO_PRD>
+                            <WO_CAPL>S</WO_CAPL>
+                            <WO_ACC_NO>9988776655</WO_ACC_NO>
+                            <WO_CRDTR>ACLEDA BANK PLC</WO_CRDTR>
+                            <WO_LOAD_DT>08/05/2012</WO_LOAD_DT>
+                            <WO_CURR>KHR</WO_CURR>
+                            <WO_ORIG_AMT>1888900.00</WO_ORIG_AMT>
+                            <WO_CUB>688900.00</WO_CUB>
+                            <WO_STAT>PP</WO_STAT>
+                            <WO_STATUS_DATE>02/03/2012</WO_STATUS_DATE>
+                        </WRITEOFF>
+                        <WRITEOFF>
+                            <WO_PRD>PLN</WO_PRD>
+                            <WO_CAPL>P</WO_CAPL>
+                            <WO_ACC_NO>8217103524601</WO_ACC_NO>
+                            <WO_CRDTR>257THANEAKEA PHUM CAMBODIA</WO_CRDTR>
+                            <WO_LOAD_DT>25/06/2013</WO_LOAD_DT>
+                            <WO_CURR>KHR</WO_CURR>
+                            <WO_ORIG_AMT>1500000.00</WO_ORIG_AMT>
+                            <WO_CUB>1500000.00</WO_CUB>
+                            <WO_STAT>OS</WO_STAT>
+                            <WO_STATUS_DATE>01/03/2013</WO_STATUS_DATE>
+                        </WRITEOFF>
+                        <WRITEOFF>
+                            <WO_PRD>PLN</WO_PRD>
+                            <WO_CAPL>P</WO_CAPL>
+                            <WO_ACC_NO>MEIHAKLOSS2002</WO_ACC_NO>
+                            <WO_CRDTR>ACLEDA BANK PLC</WO_CRDTR>
+                            <WO_LOAD_DT>02/07/2013</WO_LOAD_DT>
+                            <WO_CURR>USD</WO_CURR>
+                            <WO_ORIG_AMT>0.00</WO_ORIG_AMT>
+                            <WO_CUB>0.00</WO_CUB>
+                            <WO_STAT>NS</WO_STAT>
+                            <WO_STATUS_DATE>27/07/2002</WO_STATUS_DATE>
+                        </WRITEOFF>
+                    </WRITEOFFS>
+
+                    <GRT_WRITEOFFS>
+                        <GRT_WRITEOFF>
+                            <GRT_WO_PRD>CDL</GRT_WO_PRD>
+                            <GRT_WO_CAPL>G</GRT_WO_CAPL>
+                            <GRT_WO_ACC_NO>REF50LONGWITHALONGREFERENCEGREATERTHAN30MEIHAK0001</GRT_WO_ACC_NO>
+                            <GRT_WO_CRDTR>301 BEELINE TELECOMMUNICATIONS</GRT_WO_CRDTR>
+                            <GRT_WO_LOAD_DT>12/04/2012</GRT_WO_LOAD_DT>
+                            <GRT_WO_CURR>LAK</GRT_WO_CURR>
+                            <GRT_WO_ORIG_AMT>45.00</GRT_WO_ORIG_AMT>
+                            <GRT_WO_CUB>45.00</GRT_WO_CUB>
+                            <GRT_WO_STAT>NS</GRT_WO_STAT>
+                            <GRT_WO_STATUS_DATE>04/04/2012</GRT_WO_STATUS_DATE>
+                        </GRT_WRITEOFF>
+                        <GRT_WRITEOFF>
+                            <GRT_WO_PRD>CRC</GRT_WO_PRD>
+                            <GRT_WO_CAPL>G</GRT_WO_CAPL>
+                            <GRT_WO_ACC_NO>D562125412</GRT_WO_ACC_NO>
+                            <GRT_WO_CRDTR>SATHAPANA Limited</GRT_WO_CRDTR>
+                            <GRT_WO_LOAD_DT>15/02/2013</GRT_WO_LOAD_DT>
+                            <GRT_WO_CURR>USD</GRT_WO_CURR>
+                            <GRT_WO_ORIG_AMT>2500.00</GRT_WO_ORIG_AMT>
+                            <GRT_WO_CUB>150.00</GRT_WO_CUB>
+                            <GRT_WO_STAT>NS</GRT_WO_STAT>
+                            <GRT_WO_STATUS_DATE>23/11/2011</GRT_WO_STATUS_DATE>
+                        </GRT_WRITEOFF>
+                        <GRT_WRITEOFF>
+                            <GRT_WO_PRD>PLN</GRT_WO_PRD>
+                            <GRT_WO_CAPL>G</GRT_WO_CAPL>
+                            <GRT_WO_ACC_NO>MEIHAKLOSS2002G</GRT_WO_ACC_NO>
+                            <GRT_WO_CRDTR>ACLEDA BANK PLC</GRT_WO_CRDTR>
+                            <GRT_WO_LOAD_DT>02/07/2013</GRT_WO_LOAD_DT>
+                            <GRT_WO_CURR>USD</GRT_WO_CURR>
+                            <GRT_WO_ORIG_AMT>0.00</GRT_WO_ORIG_AMT>
+                            <GRT_WO_CUB>0.00</GRT_WO_CUB>
+                            <GRT_WO_STAT>NS</GRT_WO_STAT>
+                            <GRT_WO_STATUS_DATE>27/07/2002</GRT_WO_STATUS_DATE>
+                        </GRT_WRITEOFF>
+                        <GRT_WRITEOFF>
+                            <GRT_WO_PRD>CDL</GRT_WO_PRD>
+                            <GRT_WO_CAPL>G</GRT_WO_CAPL>
+                            <GRT_WO_ACC_NO>CBAT-1245784</GRT_WO_ACC_NO>
+                            <GRT_WO_CRDTR>FARMER FINANCE</GRT_WO_CRDTR>
+                            <GRT_WO_LOAD_DT>28/11/2014</GRT_WO_LOAD_DT>
+                            <GRT_WO_CURR>KHR</GRT_WO_CURR>
+                            <GRT_WO_ORIG_AMT>4565.00</GRT_WO_ORIG_AMT>
+                            <GRT_WO_CUB>650000.00</GRT_WO_CUB>
+                            <GRT_WO_STAT>OS</GRT_WO_STAT>
+                            <GRT_WO_STATUS_DATE>10/11/2014</GRT_WO_STATUS_DATE>
+                        </GRT_WRITEOFF>
+                        <GRT_WRITEOFF>
+                            <GRT_WO_PRD>CDL</GRT_WO_PRD>
+                            <GRT_WO_CAPL>G</GRT_WO_CAPL>
+                            <GRT_WO_ACC_NO>CBAT-1245785</GRT_WO_ACC_NO>
+                            <GRT_WO_CRDTR>FARMERFINANCE</GRT_WO_CRDTR>
+                            <GRT_WO_LOAD_DT>05/04/2012</GRT_WO_LOAD_DT>
+                            <GRT_WO_CURR>KHR</GRT_WO_CURR>
+                            <GRT_WO_ORIG_AMT>5621748.00</GRT_WO_ORIG_AMT>
+                            <GRT_WO_CUB>563254.20</GRT_WO_CUB>
+                            <GRT_WO_STAT>OS</GRT_WO_STAT>
+                            <GRT_WO_STATUS_DATE>08/12/2011</GRT_WO_STATUS_DATE>
+                        </GRT_WRITEOFF>
+                        <GRT_WRITEOFF>
+                            <GRT_WO_PRD>CDL</GRT_WO_PRD>
+                            <GRT_WO_CAPL>G</GRT_WO_CAPL>
+                            <GRT_WO_ACC_NO>CBAT-1245787</GRT_WO_ACC_NO>
+                            <GRT_WO_CRDTR>FARMER FINANCE</GRT_WO_CRDTR>
+                            <GRT_WO_LOAD_DT>05/04/2012</GRT_WO_LOAD_DT>
+                            <GRT_WO_CURR>KHR</GRT_WO_CURR>
+                            <GRT_WO_ORIG_AMT>5621748.00</GRT_WO_ORIG_AMT>
+                            <GRT_WO_CUB>0.00</GRT_WO_CUB>
+                            <GRT_WO_STAT>FS</GRT_WO_STAT>
+                            <GRT_WO_STATUS_DATE>08/12/2011</GRT_WO_STATUS_DATE>
+                        </GRT_WRITEOFF>
+                        <GRT_WRITEOFF>
+                            <GRT_WO_PRD>CDL</GRT_WO_PRD>
+                            <GRT_WO_CAPL>G</GRT_WO_CAPL>
+                            <GRT_WO_ACC_NO>CBAT-1245788</GRT_WO_ACC_NO>
+                            <GRT_WO_CRDTR>FARMER FINANCE</GRT_WO_CRDTR>
+                            <GRT_WO_LOAD_DT>05/04/2012</GRT_WO_LOAD_DT>
+                            <GRT_WO_CURR>LAK</GRT_WO_CURR>
+                            <GRT_WO_ORIG_AMT>5621748.00</GRT_WO_ORIG_AMT>
+                            <GRT_WO_CUB>125654.00</GRT_WO_CUB>
+                            <GRT_WO_STAT>PP</GRT_WO_STAT>
+                            <GRT_WO_STATUS_DATE>08/12/2011</GRT_WO_STATUS_DATE>
+                        </GRT_WRITEOFF>
+                        <GRT_WRITEOFF>
+                            <GRT_WO_PRD>CDL</GRT_WO_PRD>
+                            <GRT_WO_CAPL>G</GRT_WO_CAPL>
+                            <GRT_WO_ACC_NO>CBAT-1245789</GRT_WO_ACC_NO>
+                            <GRT_WO_CRDTR>FARMER FINANCE</GRT_WO_CRDTR>
+                            <GRT_WO_LOAD_DT>05/04/2012</GRT_WO_LOAD_DT>
+                            <GRT_WO_CURR>LAK</GRT_WO_CURR>
+                            <GRT_WO_ORIG_AMT>4571748.00</GRT_WO_ORIG_AMT>
+                            <GRT_WO_CUB>0.00</GRT_WO_CUB>
+                            <GRT_WO_STAT>OS</GRT_WO_STAT>
+                            <GRT_WO_STATUS_DATE>08/12/2011</GRT_WO_STATUS_DATE>
+                        </GRT_WRITEOFF>
+                        <GRT_WRITEOFF>
+                            <GRT_WO_PRD>CDL</GRT_WO_PRD>
+                            <GRT_WO_CAPL>G</GRT_WO_CAPL>
+                            <GRT_WO_ACC_NO>CBAT-1245790</GRT_WO_ACC_NO>
+                            <GRT_WO_CRDTR>FARMER FINANCE</GRT_WO_CRDTR>
+                            <GRT_WO_LOAD_DT>05/04/2012</GRT_WO_LOAD_DT>
+                            <GRT_WO_CURR>THB</GRT_WO_CURR>
+                            <GRT_WO_ORIG_AMT>4571748.00</GRT_WO_ORIG_AMT>
+                            <GRT_WO_CUB>98989.00</GRT_WO_CUB>
+                            <GRT_WO_STAT>OS</GRT_WO_STAT>
+                            <GRT_WO_STATUS_DATE>08/12/2011</GRT_WO_STATUS_DATE>
+                        </GRT_WRITEOFF>
+                        <GRT_WRITEOFF>
+                            <GRT_WO_PRD>PLN</GRT_WO_PRD>
+                            <GRT_WO_CAPL>G</GRT_WO_CAPL>
+                            <GRT_WO_ACC_NO>DIMPIKLOSS2002GP</GRT_WO_ACC_NO>
+                            <GRT_WO_CRDTR>ACLEDA BANK PLC</GRT_WO_CRDTR>
+                            <GRT_WO_LOAD_DT>02/07/2013</GRT_WO_LOAD_DT>
+                            <GRT_WO_CURR>USD</GRT_WO_CURR>
+                            <GRT_WO_ORIG_AMT>0.00</GRT_WO_ORIG_AMT>
+                            <GRT_WO_CUB>0.00</GRT_WO_CUB>
+                            <GRT_WO_STAT>OS</GRT_WO_STAT>
+                            <GRT_WO_STATUS_DATE>27/07/2002</GRT_WO_STATUS_DATE>
+                        </GRT_WRITEOFF>
+                    </GRT_WRITEOFFS>
+
+                    <PUBLIC_NOTICES>
+                        <PUBLIC_NOTICE>
+                            <PN_LOAD_DT>22/05/2013</PN_LOAD_DT>
+                            <PN_TYPE>ADVS</PN_TYPE>
+                            <PN_PUBLICATION>Daily Tomato Paste</PN_PUBLICATION>
+                            <PN_COMMENT>
+                                Adverse Public Notice MEI HAK has refused to pay me the KHD 5.00 he owes me for that pie wot I bought him lastweek, and he wouldn't give me any of his doughnuts the week before. I hope he gets tummyache.
+                            </PN_COMMENT>
+                            <PN_PUBLICATION_A lang="kh"/>
+                            <PN_COMMENT_A lang="ar"/>
+                        </PUBLIC_NOTICE>
+                        <PUBLIC_NOTICE>
+                            <PN_LOAD_DT>22/05/2013</PN_LOAD_DT>
+                            <PN_TYPE>GENRL</PN_TYPE>
+                            <PN_PUBLICATION>Daily Blurb</PN_PUBLICATION>
+                            <PN_COMMENT>
+                                General notice Notice is hereby given that the individual named below is applying for a license to
+                                operate an enormousnoisy machine that discharges huge amounts of toxic dust and nuclear waste into the lane
+                                behind the shops in this town. Please tell someone who cares, if you can find anyone.MEI HAK
+                            </PN_COMMENT>
+                            <PN_PUBLICATION_A lang="kh"/>
+                            <PN_COMMENT_A lang="ar"/>
+                        </PUBLIC_NOTICE>
+                    </PUBLIC_NOTICES>
+
+                    <NARRATIVES>
+                        <NARRATIVE>
+                            <NA_LOAD_DT>03/09/2014</NA_LOAD_DT>
+                            <NA_LOADED_BY>CAMRD2INT</NA_LOADED_BY>
+                            <NA_TYPE>TRNFR</NA_TYPE>
+                            <NA_TEXT>
+                                Narrative, this person has committed a fraud by pretending to have more
+                                assets than they really did and then running off with a loan disbursement.
+                            </NA_TEXT>
+                            <NA_TEXT_A lang="ar">ពលង</NA_TEXT_A>
+                        </NARRATIVE>
+                        <NARRATIVE>
+                            <NA_LOAD_DT>22/05/2013</NA_LOAD_DT>
+                            <NA_LOADED_BY>CAMRD2INT</NA_LOADED_BY>
+                            <NA_TYPE>BNKDS</NA_TYPE>
+                            <NA_TEXT>Dispute Bank narrative, maybe not such a good idea to lend</NA_TEXT>
+                            <NA_TEXT_A lang="ar">គីម,ស្ុវណ្ណពេម</NA_TEXT_A>
+                        </NARRATIVE>
+                        <NARRATIVE>
+                            <NA_LOAD_DT>22/05/2013</NA_LOAD_DT>
+                            <NA_LOADED_BY>CAMRD2INT</NA_LOADED_BY>
+                            <NA_TYPE>GEN</NA_TYPE>
+                            <NA_TEXT>
+                                General Narrative text indicating this individual is totally
+                                dependable and should be given lots of loans by everyone.
+                            </NA_TEXT>
+                            <NA_TEXT_A lang="ar">សាន,ផល គីម,ស្ុវណ្ណពេម</NA_TEXT_A>
+                        </NARRATIVE>
+                    </NARRATIVES>
+
+                    <ADDRESSES>
+                        <ADDRESS>
+                            <CA_LOAD_DT>04/11/2014</CA_LOAD_DT>
+                            <CA_CADT>POST</CA_CADT>
+                            <CA_CAD1E>PUBLIC ADDRESS LINE1</CA_CAD1E>
+                            <CA_CAD8E>KEP</CA_CAD8E>
+                            <CA_CAD9>KHM</CA_CAD9>
+                        </ADDRESS>
+                        <ADDRESS>
+                            <CA_LOAD_DT>29/10/2014</CA_LOAD_DT>
+                            <CA_CADT>POST</CA_CADT>
+                            <CA_PROV>03</CA_PROV>
+                            <CA_DIST>0305</CA_DIST>
+                            <CA_COMM>030503</CA_COMM>
+                            <CA_VILL>03050305</CA_VILL>
+                            <CA_CAD1E>LINE1</CA_CAD1E>
+                            <CA_CAD8E>12P</CA_CAD8E>
+                            <CA_CAD9>KHM</CA_CAD9>
+                        </ADDRESS>
+                        <ADDRESS>
+                            <CA_LOAD_DT>06/10/2014</CA_LOAD_DT>
+                            <CA_CADT>POST</CA_CADT>
+                            <CA_PROV>20</CA_PROV>
+                            <CA_DIST>2005</CA_DIST>
+                            <CA_COMM>200501</CA_COMM>
+                            <CA_VILL>20050110</CA_VILL>
+                            <CA_CAD1E>#23 GOAT LANE</CA_CAD1E>
+                            <CA_CAD8E>12</CA_CAD8E>
+                            <CA_CAD9>KHM</CA_CAD9>
+                        </ADDRESS>
+                    </ADDRESSES>
+
+                    <EMPLOYERS>
+                        <EMPLOYER>
+                            <EDLD>15/01/2015</EDLD>
+                            <ETYP>C</ETYP>
+                            <ESLF>N</ESLF>
+                            <EOCE>NOISY TRUCK DRIVER</EOCE>
+                            <ELEN>26</ELEN>
+                            <ETMS>2043.00</ETMS>
+                            <ECURR>USD</ECURR>
+                            <ENME>J SWAP HAULAGE</ENME>
+                            <EADR>
+                                <EA_CADT>RESID</EA_CADT>
+                                <EA_PROV>12</EA_PROV>
+                                <EA_DIST>1205</EA_DIST>
+                                <EA_COMM>120505</EA_COMM>
+                                <EA_VILL>12050503</EA_VILL>
+                                <EA_AD1E>NATIONAL ROAD4</EA_AD1E>
+                                <EA_AD8E>12</EA_AD8E>
+                                <EA_AD9>KHM</EA_AD9>
+                            </EADR>
+                        </EMPLOYER>
+                        <EMPLOYER>
+                            <EDLD>14/01/2015</EDLD>
+                            <ETYP>C</ETYP>
+                            <ESLF>N</ESLF>
+                            <EOCE>NOISY TRUCK DRIVER</EOCE>
+                            <ELEN>26</ELEN>
+                            <ETMS>2043.00</ETMS>
+                            <ECURR>USD</ECURR>
+                            <ENME>J SWAP HAULAGE</ENME>
+                            <EADR>
+                                <EA_CADT>RESID</EA_CADT>
+                                <EA_PROV>12</EA_PROV>
+                                <EA_DIST>1205</EA_DIST>
+                                <EA_COMM>120505</EA_COMM>
+                                <EA_VILL>12050503</EA_VILL>
+                                <EA_AD1E>NATIONAL ROAD4</EA_AD1E>
+                                <EA_AD8E>12</EA_AD8E>
+                                <EA_AD9>KHM</EA_AD9>
+                            </EADR>
+                        </EMPLOYER>
+                        <EMPLOYER>
+                            <EDLD>14/01/2015</EDLD>
+                            <ETYP>C</ETYP>
+                            <ESLF>Y</ESLF>
+                            <EOCE>GRAPEFRUIT MUNCHER</EOCE>
+                            <ELEN>258</ELEN>
+                            <ETMS>2365.00</ETMS>
+                            <ECURR>THB</ECURR>
+                            <ENME>SUNFRUITLTD</ENME>
+                            <EADR>
+                                <EA_CADT>POST</EA_CADT>
+                                <EA_PROV>17</EA_PROV>
+                                <EA_DIST>1703</EA_DIST>
+                                <EA_COMM>170303</EA_COMM>
+                                <EA_VILL>17030302</EA_VILL>
+                                <EA_AD1E>EMPLINE1</EA_AD1E>
+                                <EA_AD8E>KEP</EA_AD8E>
+                                <EA_AD9>KHM</EA_AD9>
+                            </EADR>
+                        </EMPLOYER>
+                    </EMPLOYERS>
+
+                    <SUMMARY>
+                        <CNT_PE>101</CNT_PE>
+                        <CNT_MTDE>8</CNT_MTDE>
+                        <CNT_ACC>21</CNT_ACC>
+                        <CNT_ACC_NORM>5</CNT_ACC_NORM>
+                        <CNT_ACC_DELQ>6</CNT_ACC_DELQ>
+                        <CNT_ACC_CLO>2</CNT_ACC_CLO>
+                        <CNT_ACC_REJ>2</CNT_ACC_REJ>
+                        <CNT_ACC_WRO>6</CNT_ACC_WRO>
+                        <CNT_GACC>51</CNT_GACC>
+                        <CNT_GACC_NORM>28</CNT_GACC_NORM>
+                        <CNT_GACC_DELQ>1</CNT_GACC_DELQ>
+                        <CNT_GACC_ACC_CLO>11</CNT_GACC_ACC_CLO>
+                        <CNT_GACC_REJ>1</CNT_GACC_REJ>
+                        <CNT_GACC_WRO>10</CNT_GACC_WRO>
+                        <EISDT>01/01/2000</EISDT>
+                        <TOT_LIMITS>
+                            <TOT_LIM_CURR>USD</TOT_LIM_CURR>
+                            <TOT_LIM>103707055.00</TOT_LIM>
+                        </TOT_LIMITS>
+                        <TOT_LIMITS>
+                            <TOT_LIM_CURR>KHR</TOT_LIM_CURR>
+                            <TOT_LIM>49550500.00</TOT_LIM>
+                        </TOT_LIMITS>
+                        <TOT_LIMITS>
+                            <TOT_LIM_CURR>THB</TOT_LIM_CURR>
+                            <TOT_LIM>1001000.00</TOT_LIM>
+                        </TOT_LIMITS>
+                        <TOT_LIMITS>
+                            <TOT_LIM_CURR>LAK</TOT_LIM_CURR>
+                            <TOT_LIM>1000000.00</TOT_LIM>
+                        </TOT_LIMITS>
+                        <TOT_GLIMITS>
+                            <TOT_GLIM_CURR>USD</TOT_GLIM_CURR>
+                            <TOT_GLIM>200091526.00</TOT_GLIM>
+                        </TOT_GLIMITS>
+                        <TOT_GLIMITS>
+                            <TOT_GLIM_CURR>LAK</TOT_GLIM_CURR>
+                            <TOT_GLIM>55720500.00</TOT_GLIM>
+                        </TOT_GLIMITS>
+                        <TOT_GLIMITS>
+                            <TOT_GLIM_CURR>KHR</TOT_GLIM_CURR>
+                            <TOT_GLIM>365224214.00</TOT_GLIM>
+                        </TOT_GLIMITS>
+                        <TOT_GLIMITS>
+                            <TOT_GLIM_CURR>THB</TOT_GLIM_CURR>
+                            <TOT_GLIM>69131956.00</TOT_GLIM>
+                        </TOT_GLIMITS>
+                        <TOT_LIABILITIES>
+                            <TOT_LIAB_CURR>USD</TOT_LIAB_CURR>
+                            <TOT_LIAB>67791703874.98</TOT_LIAB>
+                        </TOT_LIABILITIES>
+                        <TOT_LIABILITIES>
+                            <TOT_LIAB_CURR>KHR</TOT_LIAB_CURR>
+                            <TOT_LIAB>4034254.00</TOT_LIAB>
+                        </TOT_LIABILITIES>
+                        <TOT_LIABILITIES>
+                            <TOT_LIAB_CURR>THB</TOT_LIAB_CURR>
+                            <TOT_LIAB>227763221500.00
+                            </TOT_LIAB>
+                        </TOT_LIABILITIES>
+                        <TOT_LIABILITIES>
+                            <TOT_LIAB_CURR>LAK</TOT_LIAB_CURR>
+                            <TOT_LIAB>0.00</TOT_LIAB>
+                        </TOT_LIABILITIES>
+                        <TOT_GLIABILITIES>
+                            <TOT_GLIAB_CURR>USD</TOT_GLIAB_CURR>
+                            <TOT_GLIAB>26071587.00</TOT_GLIAB>
+                        </TOT_GLIABILITIES>
+                        <TOT_GLIABILITIES>
+                            <TOT_GLIAB_CURR>LAK</TOT_GLIAB_CURR>
+                            <TOT_GLIAB>10193541.00</TOT_GLIAB>
+                        </TOT_GLIABILITIES>
+                        <TOT_GLIABILITIES>
+                            <TOT_GLIAB_CURR>KHR</TOT_GLIAB_CURR>
+                            <TOT_GLIAB>31467370.00</TOT_GLIAB>
+                        </TOT_GLIABILITIES>
+                        <TOT_GLIABILITIES>
+                            <TOT_GLIAB_CURR>THB</TOT_GLIAB_CURR>
+                            <TOT_GLIAB>10193496.00</TOT_GLIAB>
+                        </TOT_GLIABILITIES>
+                        <TOT_WO_AMT>
+                            <TOT_WO_CURR>USD</TOT_WO_CURR>
+                            <TOT_WO>68156.98</TOT_WO>
+                        </TOT_WO_AMT>
+                        <TOT_WO_AMT>
+                            <TOT_WO_CURR>KHR</TOT_WO_CURR>
+                            <TOT_WO>3388900.00</TOT_WO>
+                        </TOT_WO_AMT>
+                        <TOT_GWO_AMT>
+                            <TOT_GWO_CURR>KHR</TOT_GWO_CURR>
+                            <TOT_GWO>5626313.00</TOT_GWO>
+                        </TOT_GWO_AMT>
+                        <TOT_GWO_AMT>
+                            <TOT_GWO_CURR>LAK</TOT_GWO_CURR>
+                            <TOT_GWO>10193496.00</TOT_GWO>
+                        </TOT_GWO_AMT>
+                        <TOT_GWO_AMT>
+                            <TOT_GWO_CURR>THB</TOT_GWO_CURR>
+                            <TOT_GWO>4571748.00</TOT_GWO>
+                        </TOT_GWO_AMT>
+                        <TOT_GWO_AMT>
+                            <TOT_GWO_CURR>USD</TOT_GWO_CURR>
+                            <TOT_GWO>0.00</TOT_GWO>
+                        </TOT_GWO_AMT>
+                        <TOT_WO_OS_BALANCE>
+                            <TOT_WO_OS_CURR>USD</TOT_WO_OS_CURR>
+                            <TOT_WO_OS_BAL>6625.98</TOT_WO_OS_BAL>
+                        </TOT_WO_OS_BALANCE>
+                        <TOT_WO_OS_BALANCE>
+                            <TOT_WO_OS_CURR>KHR</TOT_WO_OS_CURR>
+                            <TOT_WO_OS_BAL>2188900.00</TOT_WO_OS_BAL>
+                        </TOT_WO_OS_BALANCE>
+                        <TOT_GWO_OS_BALANCE>
+                            <TOT_GWO_OS_CURR>KHR</TOT_GWO_OS_CURR>
+                            <TOT_GWO_OS_BAL>1213254.20</TOT_GWO_OS_BAL>
+                        </TOT_GWO_OS_BALANCE>
+                        <TOT_GWO_OS_BALANCE>
+                            <TOT_GWO_OS_CURR>LAK</TOT_GWO_OS_CURR>
+                            <TOT_GWO_OS_BAL>125654.00</TOT_GWO_OS_BAL>
+                        </TOT_GWO_OS_BALANCE>
+                        <TOT_GWO_OS_BALANCE>
+                            <TOT_GWO_OS_CURR>THB</TOT_GWO_OS_CURR>
+                            <TOT_GWO_OS_BAL>98989.00</TOT_GWO_OS_BAL>
+                        </TOT_GWO_OS_BALANCE>
+                        <TOT_GWO_OS_BALANCE>
+                            <TOT_GWO_OS_CURR>USD</TOT_GWO_OS_CURR>
+                            <TOT_GWO_OS_BAL>0.00
+                            </TOT_GWO_OS_BAL>
+                        </TOT_GWO_OS_BALANCE>
+                    </SUMMARY>
+                    <SCORE>
+                        <SC_SCORE>756</SC_SCORE>
+                        <SC_SCORECARD>BNK01</SC_SCORECARD>
+                        <SC_SCOREINDEX>3</SC_SCOREINDEX>
+                        <SC_ODDS>47.17</SC_ODDS>
+                        <SC_BAD>2.07</SC_BAD>
+                        <SC_MINIMUM>-200</SC_MINIMUM>
+                        <SC_MAXIMUM>1200</SC_MAXIMUM>
+                    </SCORE>
+                </CONSUMER>
+                <DISCLAIMER>
+                    <DI_TEXT>
+                        This information has been collated from various sources and does not represent the
+                        opinion of Cambodia Credit Bureau. No Liability (in contract or otherwise whatsoever) attaches
+                        to us
+                        with respect to the collation or supplying of the information or any use made of it and whether
+                        in
+                        relation to its accuracy or completeness or any other matter whatsoever. The information is
+                        supplied on
+                        a confidential basis to you and not for the use of any other party except of any person on whose
+                        behalf
+                        you have sought the information.
+                    </DI_TEXT>
+                </DISCLAIMER>
+            </RSP_REPORT>
+        </ITEM>
+    </MESSAGE>
+</RESPONSE>

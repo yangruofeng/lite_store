@@ -1,0 +1,213 @@
+<RESPONSE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="EnquiryRspV4.xsd">
+    <SERVICE>ENQUIRYV4</SERVICE>
+    <ACTION>A_SC</ACTION>
+    <STATUS>OK</STATUS>
+    <HEADER>
+        <MEMBER_ID>246</MEMBER_ID>
+        <USER_ID>SRTUATXML</USER_ID>
+        <RUN_NO>5</RUN_NO>
+        <TOT_ITEMS>1</TOT_ITEMS>
+        <ERR_ITEMS></ERR_ITEMS>
+    </HEADER>
+    <MESSAGE>
+        <ITEM>
+            <ENQUIRY_REFERENCE>ENQUIRY-1544068045-65</ENQUIRY_REFERENCE>
+            <RSP_REPORT>
+                <ENQUIRY_TYPE>NA</ENQUIRY_TYPE>
+                <REPORT_DATE>06/12/2018</REPORT_DATE>
+                <ENQUIRY_NO>38235264</ENQUIRY_NO>
+                <PRODUCT_TYPE>AGL</PRODUCT_TYPE>
+                <NO_OF_APPLICANTS>1</NO_OF_APPLICANTS>
+                <ACCOUNT_TYPE>S</ACCOUNT_TYPE>
+                <ENQUIRY_REFERENCE>ENQUIRY-1544068045-65</ENQUIRY_REFERENCE>
+                <AMOUNT>11000.00</AMOUNT>
+                <CURRENCY>USD</CURRENCY>
+                <CONSUMER>
+                    <CAPL>P</CAPL>
+                    <CID>
+                        <CID1>N</CID1>
+                        <CID2 lang="kh">061473120</CID2>
+                        <CID3>08/04/2025</CID3>
+                    </CID>
+                    <PROVIDED>
+                        <PCNAM>
+                            <PCNMFA lang="kh">ប៊ុន</PCNMFA>
+                            <PCNM1A lang="kh">ធារ៉ា</PCNM1A>
+                            <PCNMFE>BUN</PCNMFE>
+                            <PCNM1E>THEARA</PCNM1E>
+                        </PCNAM>
+                        <PCDOB>01/01/1973</PCDOB>
+                        <PCPLB>
+                            <PCPLBC>KHM</PCPLBC>
+                            <PCPLBP>01</PCPLBP>
+                            <PCPLBD>0102</PCPLBD>
+                            <PCPLBCM>010201</PCPLBCM>
+                        </PCPLB>
+                        <PCGND>M</PCGND>
+                        <PCMAR>M</PCMAR>
+                        <PCNAT>KHM</PCNAT>
+                        <PCEML/>
+                    </PROVIDED>
+                    <AVAILABLE>
+                        <ACID>
+                            <ACID1>N</ACID1>
+                            <ACID2 lang="kh">061473120</ACID2>
+                            <ACID3>18/12/2022</ACID3>
+                        </ACID>
+                        <ACNAM>
+                            <ACNMFA lang="kh">ប៊ុន</ACNMFA>
+                            <ACNM1A lang="kh">ធារ៉ា</ACNM1A>
+                            <ACNMFE>BUN</ACNMFE>
+                            <ACNM1E>THEARA</ACNM1E>
+                        </ACNAM>
+                        <ACDOB>01/01/1973</ACDOB>
+                        <ACPLB>
+                            <ACPLBC>KHM</ACPLBC>
+                            <ACPLBP>01</ACPLBP>
+                            <ACPLBD>0102</ACPLBD>
+                            <ACPLBCM>010201</ACPLBCM>
+                        </ACPLB>
+                        <ACGND>M</ACGND>
+                        <ACMAR>M</ACMAR>
+                        <ACNAT>KHM</ACNAT>
+                        <ACEML/>
+                    </AVAILABLE>
+                    <PREV_ENQUIRIES>
+                        <PREV_ENQUIRY>
+                            <PE_DATE>05/12/2018</PE_DATE>
+                            <PE_ENQR>Samrithisak Microfinance</PE_ENQR>
+                            <PE_TYPE>NA</PE_TYPE>
+                            <PE_ACCT>S</PE_ACCT>
+                            <PE_MEMB_REF>ENQUIRY-1544003000-76</PE_MEMB_REF>
+                            <PE_PRD>AGL</PE_PRD>
+                            <PE_AMOUNT>11000.00</PE_AMOUNT>
+                            <PE_CURR>USD</PE_CURR>
+                            <PE_APPL>P</PE_APPL>
+                            <PE_NAME>
+                                <PE_NMFA lang="kh">ប៊ុន</PE_NMFA>
+                                <PE_NM1A lang="kh">ធារ៉ា</PE_NM1A>
+                                <PE_NMFE>BUN</PE_NMFE>
+                                <PE_NM1E>THEARA</PE_NM1E>
+                            </PE_NAME>
+                        </PREV_ENQUIRY>
+                        <PREV_ENQUIRY>
+                            <PE_DATE>05/12/2018</PE_DATE>
+                            <PE_ENQR>Samrithisak Microfinance</PE_ENQR>
+                            <PE_TYPE>NA</PE_TYPE>
+                            <PE_ACCT>S</PE_ACCT>
+                            <PE_MEMB_REF>ENQUIRY-1544002655-30</PE_MEMB_REF>
+                            <PE_PRD>AGL</PE_PRD>
+                            <PE_AMOUNT>11000.00</PE_AMOUNT>
+                            <PE_CURR>USD</PE_CURR>
+                            <PE_APPL>P</PE_APPL>
+                            <PE_NAME>
+                                <PE_NMFA lang="kh">ប៊ុន</PE_NMFA>
+                                <PE_NM1A lang="kh">ធារ៉ា</PE_NM1A>
+                                <PE_NMFE>BUN</PE_NMFE>
+                                <PE_NM1E>THEARA</PE_NM1E>
+                            </PE_NAME>
+                        </PREV_ENQUIRY>
+                    </PREV_ENQUIRIES>
+                    <ADDRESSES>
+                        <ADDRESS>
+                            <CA_LOAD_DT>05/12/2018</CA_LOAD_DT>
+                            <CA_CADT>RESID</CA_CADT>
+                            <CA_PROV>01</CA_PROV>
+                            <CA_DIST>0102</CA_DIST>
+                            <CA_COMM>010201</CA_COMM>
+                            <CA_VILL>01020100</CA_VILL>
+                            <CA_CAD2E>OTHER</CA_CAD2E>
+                            <CA_CAD9>KHM</CA_CAD9>
+                        </ADDRESS>
+                    </ADDRESSES>
+                    <EMPLOYERS>
+                        <EMPLOYER>
+                            <EDLD>05/12/2018</EDLD>
+                            <ETYP>C</ETYP>
+                            <ESLF>Y</ESLF>
+                            <EOCE>SELLER</EOCE>
+                            <ELEN>8</ELEN>
+                            <ETMS>500.00</ETMS>
+                            <ECURR>USD</ECURR>
+                            <ENME>NONE</ENME>
+                            <EADR>
+                                <EA_CADT>WORK</EA_CADT>
+                                <EA_PROV>01</EA_PROV>
+                                <EA_DIST>0102</EA_DIST>
+                                <EA_COMM>010201</EA_COMM>
+                                <EA_VILL>01020100</EA_VILL>
+                                <EA_AD2E>OTHER</EA_AD2E>
+                                <EA_AD9>KHM</EA_AD9>
+                            </EADR>
+                        </EMPLOYER>
+                    </EMPLOYERS>
+                    <ADVISORY_SUMMARY_TEXT>
+                        <ADVISORY_TEXT>NOADV</ADVISORY_TEXT>
+                    </ADVISORY_SUMMARY_TEXT>
+                    <SUMMARY>
+                        <CNT_PE>2</CNT_PE>
+                        <CNT_MTDE>2</CNT_MTDE>
+                        <CNT_ACC>0</CNT_ACC>
+                        <CNT_ACC_NORM>0</CNT_ACC_NORM>
+                        <CNT_ACC_DELQ>0</CNT_ACC_DELQ>
+                        <CNT_ACC_CLO>0</CNT_ACC_CLO>
+                        <CNT_ACC_REJ>0</CNT_ACC_REJ>
+                        <CNT_ACC_WRO>0</CNT_ACC_WRO>
+                        <CNT_GACC>0</CNT_GACC>
+                        <CNT_GACC_NORM>0</CNT_GACC_NORM>
+                        <CNT_GACC_DELQ>0</CNT_GACC_DELQ>
+                        <CNT_GACC_ACC_CLO>0</CNT_GACC_ACC_CLO>
+                        <CNT_GACC_REJ>0</CNT_GACC_REJ>
+                        <CNT_GACC_WRO>0</CNT_GACC_WRO>
+                        <EISDT/>
+                        <TOT_LIMITS>
+                            <TOT_LIM_CURR/>
+                            <TOT_LIM>0.00</TOT_LIM>
+                        </TOT_LIMITS>
+                        <TOT_GLIMITS>
+                            <TOT_GLIM_CURR/>
+                            <TOT_GLIM>0.00</TOT_GLIM>
+                        </TOT_GLIMITS>
+                        <TOT_LIABILITIES>
+                            <TOT_LIAB_CURR/>
+                            <TOT_LIAB>0.00</TOT_LIAB>
+                        </TOT_LIABILITIES>
+                        <TOT_GLIABILITIES>
+                            <TOT_GLIAB_CURR/>
+                            <TOT_GLIAB>0.00</TOT_GLIAB>
+                        </TOT_GLIABILITIES>
+                        <TOT_WO_AMT>
+                            <TOT_WO_CURR/>
+                            <TOT_WO>0.00</TOT_WO>
+                        </TOT_WO_AMT>
+                        <TOT_GWO_AMT>
+                            <TOT_GWO_CURR/>
+                            <TOT_GWO>0.00</TOT_GWO>
+                        </TOT_GWO_AMT>
+                        <TOT_WO_OS_BALANCE>
+                            <TOT_WO_OS_CURR/>
+                            <TOT_WO_OS_BAL>0.00</TOT_WO_OS_BAL>
+                        </TOT_WO_OS_BALANCE>
+                        <TOT_GWO_OS_BALANCE>
+                            <TOT_GWO_OS_CURR/>
+                            <TOT_GWO_OS_BAL>0.00</TOT_GWO_OS_BAL>
+                        </TOT_GWO_OS_BALANCE>
+                    </SUMMARY>
+                    <SCORE>
+                        <SC_ERROR>Applicant has no Primary accounts or no valid repayment status information</SC_ERROR>
+                    </SCORE>
+                </CONSUMER>
+                <DISCLAIMER>
+                    <DI_TEXT>This information has been collated from various sources. It does not represent the opinion
+                        of Credit Bureau Cambodia and Credit Bureau Cambodia assumes no responsibility for it. Credit
+                        Bureau Cambodia will not be liable (in contract or otherwise whatsoever) with respect to the
+                        collation or supply of the information or any use made of it, whether in relation to its
+                        accuracy or completeness or any other matter whatsoever. The information is supplied on a
+                        confidential basis to you and not for the use or reliance of any other party except any person
+                        on whose behalf you have sought the information.
+                    </DI_TEXT>
+                </DISCLAIMER>
+            </RSP_REPORT>
+        </ITEM>
+    </MESSAGE>
+</RESPONSE>

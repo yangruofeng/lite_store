@@ -1,0 +1,54 @@
+<RESPONSE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="EnquiryRspV4.xsd">
+    <SERVICE>ENQUIRYV4</SERVICE>
+    <ACTION>A_SC</ACTION>
+    <STATUS>ERROR</STATUS>
+    <HEADER>
+        <MEMBER_ID>246</MEMBER_ID>
+        <USER_ID>SRTUATXML</USER_ID>
+        <RUN_NO>5</RUN_NO>
+        <TOT_ITEMS>1</TOT_ITEMS>
+        <ERR_ITEMS>1</ERR_ITEMS>
+    </HEADER>
+    <MESSAGE>
+        <ITEM seq="1">
+            <ENQUIRY_REFERENCE>ENQUIRY-1543997074-90</ENQUIRY_REFERENCE>
+            <ERROR>
+                <CONSUMER_SEQ>1</CONSUMER_SEQ>
+                <FIELD>CID2</FIELD>
+                <RSP_MSG>B2B0711 0711 Invalid ID Number supplied</RSP_MSG>
+                <DATA>010365983(01)</DATA>
+            </ERROR>
+            <ERROR>
+                <CONSUMER_SEQ>1</CONSUMER_SEQ>
+                <FIELD>CAD2E</FIELD>
+                <RSP_MSG>B2B0403 Village cannot be blanks</RSP_MSG>
+                <DATA/>
+            </ERROR>
+            <ERROR>
+                <CONSUMER_SEQ>1</CONSUMER_SEQ>
+                <FIELD>CAD2A</FIELD>
+                <RSP_MSG>B2B0403 Village cannot be blanks</RSP_MSG>
+                <DATA/>
+            </ERROR>
+            <ERROR>
+                <CONSUMER_SEQ>1</CONSUMER_SEQ>
+                <FIELD>CCN4</FIELD>
+                <RSP_MSG>B2B0337 0337 Contact Type is Mobile but invalid Mobile Prefix</RSP_MSG>
+                <DATA>12755506</DATA>
+            </ERROR>
+            <ERROR>
+                <CONSUMER_SEQ>1</CONSUMER_SEQ>
+                <FIELD>EAD2E</FIELD>
+                <RSP_MSG>B2B0403 Village cannot be blanks</RSP_MSG>
+                <DATA/>
+            </ERROR>
+            <ERROR>
+                <CONSUMER_SEQ>1</CONSUMER_SEQ>
+                <FIELD>EAD2A</FIELD>
+                <RSP_MSG>B2B0403 Village cannot be blanks</RSP_MSG>
+                <DATA/>
+            </ERROR>
+            <NO_ERRORS>6</NO_ERRORS>
+        </ITEM>
+    </MESSAGE>
+</RESPONSE>

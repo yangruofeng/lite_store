@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<REQUEST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Enquiry.xsd">
+    <SERVICE>HISTORIC</SERVICE>
+    <ACTION>A</ACTION>
+    <HEADER>
+        <MEMBER_ID>246</MEMBER_ID>
+        <USER_ID>SRTUATXML</USER_ID>
+        <RUN_NO>5</RUN_NO>
+        <TOT_ITEMS>1</TOT_ITEMS>
+    </HEADER>
+    <MESSAGE>
+        <ENQUIRY>
+            <ENQUIRY_NUMBER>38096811</ENQUIRY_NUMBER>
+        </ENQUIRY>
+    </MESSAGE>
+</REQUEST>

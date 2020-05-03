@@ -1,0 +1,24 @@
+<RESPONSE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="EnquiryRspV4.xsd">
+    <SERVICE>ENQUIRYV2</SERVICE>
+    <ACTION>A</ACTION>
+    <STATUS>ERROR</STATUS>
+    <HEADER>
+        <MEMBER_ID>2</MEMBER_ID>
+        <USER_ID>CAMRD2INT</USER_ID>
+        <RUN_NO>001</RUN_NO>
+        <TOT_ITEMS>1</TOT_ITEMS>
+        <ERR_ITEMS>1</ERR_ITEMS>
+    </HEADER>
+    <MESSAGE>
+        <ITEM seq="1">
+            <ENQUIRY_REFERENCE>JMETERRD1411V2</ENQUIRY_REFERENCE>
+            <ERROR>
+                <CONSUMER_SEQ>1</CONSUMER_SEQ>
+                <FIELD>CAD8E</FIELD>
+                <RSP_MSG>B2B0882 0882 Invalid value supplied for field</RSP_MSG>
+                <DATA>City403</DATA>
+            </ERROR>
+            <NO_ERRORS>1</NO_ERRORS>
+        </ITEM>
+    </MESSAGE>
+</RESPONSE>
